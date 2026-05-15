@@ -22,7 +22,7 @@ GitHub Codespaces provides **120 core-hours/month** on the free tier. Since this
 
 Works on most networks that aren't aggressively blocking GitHub infrastructure. If the default region doesn't work for you, try creating the codespace in a different datacenter.
 
-## Disclaimer
+## Disclaim
 
 This project is strictly experimental and intended for **educational and research purposes only**. It does not violate GitHub's Terms of Service. It uses GitHub Codespaces — a feature officially provided by GitHub — in its intended manner. No abuse, exploit, or unauthorized access is involved.
 
